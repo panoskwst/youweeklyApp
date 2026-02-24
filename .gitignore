@@ -1,0 +1,11 @@
+# youweeklyApp/.gitignore
+
+# Node.js
+backend/node_modules
+backend/.env
+
+# React Native
+mobile-app/node_modules
+mobile-app/.env
+mobile-app/ios/build
+mobile-app/android/build
